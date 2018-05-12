@@ -1,0 +1,34 @@
+_repo: Max-Carrados_34732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bramah, Ernest
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '529'
+    url: http://www.gutenberg.org/2009/agents/529
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Bramah
+description: ''
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Blind -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Private investigators -- Fiction'
+tableOfContents: The coin of Dionysius -- The Knight's Cross signal problem -- The
+  tragedy at Brookbend Cottage -- The clever Mrs Straithwaite -- The last exploit
+  of Harry the Actor -- The Tilling Shaw mystery -- The comedy at Fountain Cottage
+  -- The game played in the dark.
+title: Max Carrados
+url: http://www.gutenberg.org/ebooks/34732
