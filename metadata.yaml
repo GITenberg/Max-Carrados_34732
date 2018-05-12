@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/529
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Bramah
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34732#Max-Carrados
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2010-12-23'
 gutenberg_type: Text
